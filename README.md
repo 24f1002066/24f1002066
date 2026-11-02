@@ -30,7 +30,7 @@ A full-stack developer and aspiring data scientist passionate about building lig
 ### 💬 Let's Connect & Collaborate
 - 👯 Open to collaborating on open-source web platforms, education tech tools, or ML projects.
 - 💬 Ask me about: lightweight web architectures, frontend performance, or practical Python development.
-- 📫 Connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/natkhaatbalak/)) or via email at `abhishek.kr2751@gmail.com`.
+- 📫 Connect with me on [LinkedIn]((https://www.linkedin.com/in/natkhaatbalak/)) or via email at `abhishek.kr2751@gmail.com`.
 
 ---
 <p align="center">
